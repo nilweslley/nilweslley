@@ -31,6 +31,9 @@
 </div>
   
   ##
+ 
 <div>
-    ![Snake animation](https://github.com/nilweslley/nilweslley/blob/output/github-contribution-grid-snake.svg)
+ 
+    ![Snake animation](https://github.com/nilweslley/nilweslley/blob/main/.github/workflows/main.yml)
+ 
   </div>
