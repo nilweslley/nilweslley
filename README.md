@@ -1,14 +1,14 @@
 ### Oi! Eu sou Nilweslley, mas pode me chamar Nil 👋 Muito Bom ter você por aqui
 
- 🔭   Atualmente estou trabalhando como intérprete de Lingua de Sinais e como Fotógrafo.
- 🌱   Estou estudando JS, HTML e CSS
- 👯   Estou procurando colaborar com tudo que estou aprendendo ainda mais para quem também está iniciando, com foco na acessibiliade em libras.
- 📫   Como chegar até mim...
--       Insta @n_wes_alves ou @nilalvesfotografia
--       Facebook Nil Alves
--       Email nilweslley@gmail.com ou nilweslley@hotmail.com
- 😄   Pronomes: Ele/Dele
- ⚡   Curiosidade: Estou com um projeto em construção para ajudar a comunidade surda a aprender informática e programação. Elaborando aulas no Youtube em Libras e posteriormente uma plataforma online de cursos voltados para programação totalmente traduzida em Lingua de Sinais para que os surdos também tenho acesso a esse conhecimento. Em breve divulgarei na comunidade DEV sobre o projeto com mais detalhes.
+- 🔭   Sou intérprete de Lingua de Sinais.
+- 🌱   Estou estudando JS, HTML e CSS
+- 👯   Procurando colaborar com tudo que estou aprendendo e ainda mais para quem está iniciando. 
+- 📫   Como chegar até mim...
+- -      Insta @n_wes_alves ou @cuboshands
+- -      Facebook Nil Alves ou Cubo Hands
+- -     Email nilweslley@gmail.com ou cubohands@gmail.com
+- 😄   Pronomes: Ele/Dele
+- ⚡   Curiosidade: Estou com um projeto em construção para ajudar a comunidade surda a aprender informática e linguagem de programação. Elaborando conteúdo com acessibilidade para surdos no instagram, facebook e em breve aulas no Youtube em Libras. Em breve divulgarei na comunidade DEV sobre o projeto com mais detalhes.
 
 
 
