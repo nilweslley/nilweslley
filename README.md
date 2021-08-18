@@ -4,7 +4,7 @@
 - 🌱   Estou estudando JS, HTML e CSS
 - 👯   Procurando colaborar com tudo que estou aprendendo e ainda mais para quem está iniciando. 
 - 📫   Como chegar até mim...
-- -      Insta @n_wes_alves ou @cuboshands
+- -      Insta @n_wes_alves ou @cubohands
 - -      Facebook Nil Alves ou Cubo Hands
 - -     Email nilweslley@gmail.com ou cubohands@gmail.com
 - 😄   Pronomes: Ele/Dele
