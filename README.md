@@ -8,7 +8,7 @@
 - -      Facebook Nil Alves ou Cubo Hands
 - -     Email nilweslley@gmail.com ou cubohands@gmail.com
 - 😄   Pronomes: Ele/Dele
-- ⚡   Curiosidade: Estou com um projeto em construção para ajudar a comunidade surda a aprender informática e linguagem de programação. Elaborando conteúdo com acessibilidade para surdos no instagram, facebook e em breve aulas no Youtube em Libras. Em breve divulgarei na comunidade DEV sobre o projeto com mais detalhes.
+- ⚡   Curiosidade: Estou com um projeto em construção para ajudar a comunidade surda a aprender informática e linguagem de programação. Elaborando conteúdo com acessibilidade para surdos no instagram, facebook e em breve aulas no Youtube em Libras. Em breve divulgarei na comunidade DEV sobre o projeto com mais detalhes, mas pra quem ja quiser ir acompanhando o início, só seguir @cubohands.
 
 
 
