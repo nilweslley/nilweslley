@@ -1,7 +1,10 @@
 ### Oi! Eu sou Nilweslley, mas pode me chamar Nil 👋 Muito Bom ter você por aqui
 
-- 🔭   Sou intérprete de Lingua de Sinais.
-- 🌱   Estou estudando JS, HTML e CSS
+- 🔭   Formado em Análise e Desenvolvimento de Sistemas. Atualmente atuo no mercado a 6 anos como intérprete de LIBRAS - Lingua Brasileira de Sinais.
+- 🌱   Estou fazendo Pós Graduação em:
+- -  Ui/Ux
+- -  Desenvolvimento de Aplicações Web
+- -  Libras
 - 👯   Procurando colaborar com tudo que estou aprendendo e ainda mais para quem está iniciando. 
 - 📫   Como chegar até mim...
 - -      Insta @n_wes_alves ou @cubohands
