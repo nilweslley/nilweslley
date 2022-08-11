@@ -1,6 +1,6 @@
 ### Oi! Eu sou Nilweslley, mas pode me chamar Nil 👋 Muito Bom ter você por aqui
 
-- 🔭   Formado em Análise e Desenvolvimento de Sistemas. Atualmente atuo no mercado a 6 anos como intérprete de LIBRAS - Lingua Brasileira de Sinais.
+- 🔭   Formado em Análise e Desenvolvimento de Sistemas. Atualmente atuo no mercado a 8 anos como intérprete de LIBRAS - Lingua Brasileira de Sinais.
 - 🌱   Estou fazendo Pós Graduação em:
 - -  Ui/Ux
 - -  Desenvolvimento de Aplicações Web
