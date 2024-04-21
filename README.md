@@ -1,17 +1,15 @@
 ### Oi! Eu sou Nilweslley, mas pode me chamar Nil 👋 Muito Bom ter você por aqui
 
-- 🔭   Formado em Análise e Desenvolvimento de Sistemas. Atualmente atuo no mercado a 8 anos como intérprete de LIBRAS - Lingua Brasileira de Sinais.
+- 🔭   Formado em Análise e Desenvolvimento de Sistemas e graduando em Engenharia de Software. Atualmente atuo no mercado a 9 anos como intérprete de LIBRAS - Lingua Brasileira de Sinais.
 - 🌱   Estou fazendo Pós Graduação em:
 - -  Ui/Ux
-- -  Desenvolvimento de Aplicações Web
-- -  Libras
 - 👯   Procurando colaborar com tudo que estou aprendendo e ainda mais para quem está iniciando. 
 - 📫   Como chegar até mim...
 - -      Insta @n_wes_alves ou @cubohands
 - -      Facebook Nil Alves ou Cubo Hands
 - -     Email nilweslley@gmail.com ou cubohands@gmail.com
 - 😄   Pronomes: Ele/Dele
-- ⚡   Curiosidade: Estou com um projeto em construção para ajudar a comunidade surda a aprender informática e linguagem de programação. Elaborando conteúdo com acessibilidade para surdos no instagram, facebook e em breve aulas no Youtube em Libras. Em breve divulgarei na comunidade DEV sobre o projeto com mais detalhes, mas pra quem ja quiser ir acompanhando o início, só seguir @cubohands.
+- ⚡   Curiosidade: Estou com um projeto em construção para ajudar a comunidade surda a aprender linguagem de programação e Ui Desing. Elaborando conteúdo com acessibilidade para surdos no instagram, facebook e em breve aulas no Youtube em Libras. Em breve divulgarei na comunidade DEV sobre o projeto com mais detalhes, mas pra quem ja quiser ir acompanhando o início, só seguir @cubohands.
 
 
 
